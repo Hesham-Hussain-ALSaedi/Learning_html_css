@@ -1,0 +1,210 @@
+  .Sub {
+    background-color: rgb(200, 0, 0);
+    color: white;
+    border: none;
+    height: 39px;
+    width: 105px;
+    border-radius: 2px;
+    cursor: pointer;
+  }
+  .Join {
+    border-color: rgb(31, 108, 195);
+    color: rgb(31, 108, 195);
+    height: 40;
+    width: 70;
+    background-color: white;
+    cursor: pointer;
+    margin-right: 8px;
+
+  }
+
+  /* Tweet Button */
+  .Tweet-Button {
+    height: 45px;
+    width: 85px;
+    background-color: rgb(8, 160, 233);
+    color: white;
+    border-radius: 23px;
+    border: none;
+    cursor: pointer;
+    margin-right: 8px;
+  }
+  
+
+  
+
+  /* Uber Button */
+  .Uber-Button {
+    background-color: black;
+    color: white;
+    height: 40px;
+    width: 105px;
+    cursor: pointer;
+    border: none;
+    margin-right: 10px;
+  }
+  .Uber-Button:hover{
+    opacity: 0.7;
+  }
+
+  /* amazon Button*/
+  .Amazon-Button {
+    background-color: rgb(255, 216, 20);
+    color: black;
+    border: none;
+    cursor: pointer;
+    height: 40px;
+    width: 200px;
+    border-radius: 20px;
+    Transition: opacity 0.20s;
+  }
+  .Amazon-Button:hover{
+    background-color:rgb(247, 153, 11);
+
+  }
+
+  /*GitHub Button*/
+  .Github-Button {
+    background-color: rgb(46, 164, 79);
+    color: white;
+    border-radius: 5px;
+    height: 35px;
+    width: 78px;
+    margin-left: 10px;
+    border: none;
+    cursor:pointer;
+    Transition: box-shadow 0.15s;
+    align-content: center;
+  }
+  .Github-Button:hover{
+    box-shadow: 3px 5px 5px rgba(0,0,0,0.15);
+
+  }
+
+  .Bootstrap1 {
+    height: 40px;
+    width: 100px;
+    background-color: rgb(121, 82, 179);
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin-left: 10px;
+    border-radius: 10px;
+  }
+  .Bootstrap1:hover{
+    background-color:rgb(131, 97, 182);
+    font-size:3px;
+
+  }
+
+  .Bootstrap2 {
+    width: 90px;
+    height: 40px;
+    color: rgb(108, 117, 125);
+    background-color: white;
+    border-color: rgb(108, 117, 125);
+    border-width: 1px;
+    cursor: pointer;
+    margin-left: 10px;
+    border-radius: 10px;
+    font-size:3;
+    Transition: background-color 0.15s, color 0.15s;
+  }
+  .Bootstrap2:hover{
+    background-color:rgb(108, 117, 125);
+    color:white;
+    font-size:3;
+  }
+
+  .LinkedIn1 {
+    background-color: rgb(10, 102, 194);
+    color: white;
+    width: 200px;
+    height: 40px;
+    margin-left: 10px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+
+  }
+  .LinkedIn1:hover{
+    background-color:rgb(7, 54, 101);
+  }
+
+  .LinkedIn2 {
+    background-color: white;
+    color: rgb(10, 102, 194);
+    margin-left: 10px;
+    height: 40px;
+    width: 70px;
+    border-radius: 20px;
+    border-width: 1px;
+    border-color: rgb(10, 102, 194);
+    cursor: pointer;
+  }
+  .LinkedIn2:hover{
+    border-width: 0.5px;
+    background-color:rgb(99, 155, 211);
+
+  }
+  .URL:hover{
+    color:rgb(247, 153, 11);
+  }
+
+  .Title1 {
+    width: bold;
+    color: black;
+    font-size: 30px;
+  }
+
+  .price {
+    color: rgb(0, 118, 0);
+  }
+
+  .aCart {
+    background-color: rgb(255, 216, 20);
+    color: black;
+    width: 125px;
+    height: 35px;
+    border-radius: 17px;
+    cursor: pointer;
+    border: none;
+  }
+  .aCart:hover{
+    background-color:rgb(224, 168, 13);
+
+  }
+  .aCart:active{
+    opacity: 0.4;
+  }
+
+  .Buy {
+    background-color: rgb(255, 164, 28);
+    color: black;
+    width: 125px;
+    height: 35px;
+    border-radius: 17px;
+    cursor: pointer;
+    border: none;
+    margin-left: 10px;
+
+  }
+  .Buy:hover{
+    background-color:rgb(216, 157, 70);
+  }
+.Buy:active{
+  opacity: 0.6;
+}
+.Tweet-Shadow{
+  background-color:rgb(10, 102, 194);
+  color:white;
+  border-radius:16px;
+  Border:none;
+  height:35px;
+  width:60px;
+
+}
+.Tweet-Shadow:hover{
+  box-shadow: 3px 2px 4px rgba(0,0,0,0.15);
+}
+

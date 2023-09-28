@@ -1,0 +1,90 @@
+.Back{
+  border-width:1px;
+  padding: 8px;
+  cursor:pointer;
+}
+.Next{
+
+  border-width:1px;
+  padding: 8px;
+  cursor:pointer;
+}
+.s{
+  border:none;
+  background-color:green;
+  border-color:green;
+  color:white;
+  padding-top: 10px;
+  padding-bottom:10px;
+  padding-left:10px;
+  padding-right:10px;
+  cursor:pointer;
+  transition: padding-bottom 0.4s;
+  transition: padding-right 0.4s;
+}
+.s:hover{
+  padding-bottom:17px;
+  padding-right:17px;
+  text-align:center;
+  
+
+}
+.one{
+  Background-color:green;
+  Border:none;
+  color:white;
+  padding: 10px;
+  margin-right:10px;
+  margin-left:10px;
+
+}
+.one:hover{
+  padding-left: 15px;
+  padding-right:15px;
+  margin-right:0px;
+}
+.two{
+  Background-color:green;
+  Border:none;
+  color:white;
+  padding: 10px;
+  margin-right:10px;
+  margin-left:10px;
+}
+.two:hover{
+  padding-left: 15px;
+  padding-right:15px;
+  margin-right:1px;
+  margin-left:0px;
+}
+.three{
+  Background-color:green;
+  Border:none;
+  color:white;
+  padding: 10px;
+  margin-right:10px;
+  margin-left:10px;
+}.three:hover{
+  padding-left: 15px;
+  padding-right:15px;
+  margin-right:0px;
+  margin-left:0px;
+}
+.shadow{
+  background-color:green;
+  border:none;
+  color:white;
+  padding-left:10px;
+  padding-right:10px;
+  padding-top:5px;
+  padding-bottom:5px;
+  cursor:pointer;
+  
+}
+.shadow:hover{
+  box-shadow: 3px 6px 5px rgba(0,0,0,0.15);
+}
+.shadow:active{
+  margin-top:5px;
+  margin-left:7px;
+}
